@@ -1,13 +1,14 @@
-<!-- Titulo do projeto -->
+Titulo do projeto
 www.svviral.com
-<!-- Descrição do Projeto -->
+Descrição do Projeto:
 Site para publico europeo
-<!-- Como Instalar  -->
+Como Instalar:
 Acesso pela web.
-<!-- Como Usar  -->
+Como Usar
 Navegaçao publica no site.
-<!-- Contribuição -->
+Contribuição
 M,J,A SANCIVIER
-<!-- Licença  -->
+Licença
 70845784271RF
-<!-- Informações relevantes ao projeto que estão desenvolvendo -->
+Informações relevantes ao projeto que estão desenvolvendo:
+Site para vendas internacionais
